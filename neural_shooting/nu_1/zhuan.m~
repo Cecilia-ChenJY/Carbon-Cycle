@@ -1,0 +1,2 @@
+load('/Users/cindy/Desktop/T5/dat/LimitCycle_nu=0.9.txt');
+csvwrite('LimitCycle_nu=0.9.csv',LimitCycle_nu_0_9)
